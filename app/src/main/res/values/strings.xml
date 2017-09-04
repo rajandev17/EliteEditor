@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Elite editor</string>
+
+    <string name="title">Add link</string>
+    <string name="hint">Enter Link here</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="bold">Bold</string>
+    <string name="italic">Italic</string>
+    <string name="underline">Underline</string>
+    <string name="strike">Strikethrough</string>
+    <string name="bullet">Bullet</string>
+    <string name="quote">Quote</string>
+    <string name="toast_insert_link">Insert link</string>
+    <string name="toast_format_clear">Format clear</string>
+    <string name="editor_hint">Your story goes here …</string>
+    <string name="submit">Submit</string>
+    <string name="save">save</string>
+
+</resources>
